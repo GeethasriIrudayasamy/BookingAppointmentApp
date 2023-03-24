@@ -1,0 +1,19 @@
+.align-items-center {
+    margin-top: 30px;
+    justify-content: center;
+}
+.inputs {
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    margin-bottom: 2rem;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+}
